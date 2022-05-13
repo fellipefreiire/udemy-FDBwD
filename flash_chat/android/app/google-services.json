@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "902086545816",
+    "project_id": "flash-chat-26af9",
+    "storage_bucket": "flash-chat-26af9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902086545816:android:5758a373bd95e50aca1bed",
+        "android_client_info": {
+          "package_name": "com.felipefreire.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902086545816-nc3e0pn8s3c5u2n35vostu3co0vld098.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_Zart96zfVfotoQXSUu7fMxdmHaFqJa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902086545816-nc3e0pn8s3c5u2n35vostu3co0vld098.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
